@@ -2,7 +2,7 @@
 FROM node:15
 
 # set maintainer
-LABEL maintainer "pradeep@gmail.com"
+LABEL maintainer "pradeepe@gnetzero.net"
 
 # set a health check
 HEALTHCHECK --interval=5s \
